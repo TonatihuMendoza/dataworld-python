@@ -1,9 +1,0 @@
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-python get-pip.py
-pip install datadotworld
-dw configure
-eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwcm9kLXVzZXItY2xpZW50OnRvbmF0aWh1IiwiaXNzIjoiYWdlbnQ6dG9uYXRpaHU6OjQ3N2E2MjBiLWYyYjktNDk4ZS1iZTg5LTJlZDA3NDYyZjhhMyIsImlhdCI6MTUzNDE3OTA4Niwicm9sZSI6WyJ1c2VyX2FwaV9hZG1pbiIsInVzZXJfYXBpX3JlYWQiLCJ1c2VyX2FwaV93cml0ZSJdLCJnZW5lcmFsLXB1cnBvc2UiOnRydWV9.ozi2OfNwq8yH6LKk2wA6R2MA1rrAyOk7-oJaJloczdYrDDNBJWahYVCluFzFEwOGHOohWdomDUz6JFohLyN9lQ
-
-pip install pandas
-pip install numpy
-pip install matplotlib
